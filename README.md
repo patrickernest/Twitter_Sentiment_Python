@@ -30,9 +30,13 @@ The search_output_pat.txt contains 100 tweet with the term "Love"
 Example tweets with the term "Love": -
 
 "I haven\'t been told \\"I love you\\" in what seems like foreverrrr \\u2639"
+
 "RT @MakeupsDIY: Love this https:\\/\\/t.co\\/Pq1MVtkXss"
+
 "Love this https:\\/\\/t.co\\/Pq1MVtkXss"
+
 "RT @shorty_hoop: I don\'t love often, but when I do.. I love hard. \\ud83d\\ude29","entities"
+
 "I don\'t love often, but when I do.. I love hard. \\ud83d\\ude29"
 
 ### User API
