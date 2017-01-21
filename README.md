@@ -49,7 +49,7 @@ In the python script given function fetch_by_user_name, tweets are searched with
 
 **Command used** : - ```python3 frequency_pat.py <stopword_file> <tweet_file> > term_freq_pat.txt```
 
-In this program we calculate the term frequency of every term that occurs the tweet file  streaming_output_full_pat.txt. First the data is extracted from the file and cleaned. After this the stop words that are mentioned in the file stopwords.txt are removed from the tweets. This is done to remove irrelevant words such as the and and. Then the uniquely occurring words are found and their frequency is calculated and printed. The 30 most 
+In this program we calculate the term frequency of every term that occurs the tweet file  streaming_output_full_pat.txt. First the data is extracted from the file and cleaned. After this the stop words that are mentioned in the file stopwords.txt are removed from the tweets. This is done to remove irrelevant words such as the and and. Then the uniquely occurring words are found and their frequency is calculated and printed. The 30 most 
 frequent terms are given below: -
 
 _____30 most frequent terms along with their frequencies_____
